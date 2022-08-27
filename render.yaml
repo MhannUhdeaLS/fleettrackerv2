@@ -1,4 +1,4 @@
-app = "fleettrackerv2"
+app = "december-2015-fleet"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
