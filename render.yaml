@@ -1,4 +1,4 @@
-app = "december-2015-fleet"
+app = "iprobedroid/swgoh-arena-tracker"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
